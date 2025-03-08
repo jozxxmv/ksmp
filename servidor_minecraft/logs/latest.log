@@ -181,3 +181,27 @@
 [00:33:20] [Server thread/INFO]: jozxxmv has made the advancement [Bring Home the Beacon]
 [00:33:44] [Server thread/INFO]: [jozxxmv: Set the time to 1000]
 [00:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[00:39:11] [Server thread/INFO]: jozxxmv lost connection: Disconnected
+[00:39:11] [Server thread/INFO]: jozxxmv left the game
+[00:40:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:42:03] [Server thread/INFO]: Cuc4L0v3r[/127.233.44.133:52259] logged in with entity id 1415 at (-3114.5, 204.0, 4492.5)
+[00:42:03] [Server thread/INFO]: Cuc4L0v3r joined the game
+[00:42:07] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Bring Home the Beacon]
+[00:42:11] [Server thread/INFO]: Cuc4L0v3r lost connection: Disconnected
+[00:42:11] [Server thread/INFO]: Cuc4L0v3r left the game
+[00:42:17] [Server thread/INFO]: Cuc4L0v3r[/127.233.44.133:44475] logged in with entity id 1766 at (-3114.5, 204.0, 4492.5)
+[00:42:17] [Server thread/INFO]: Cuc4L0v3r joined the game
+[00:43:30] [Server thread/WARN]: Cuc4L0v3r moved too quickly! 8.275409754530756,-5.690076200887091,2.178915625046102
+[00:45:21] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Sweet Dreams]
+[00:46:27] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Stone Age]
+[00:46:33] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Getting an Upgrade]
+[00:48:14] [Server thread/WARN]: Cuc4L0v3r moved too quickly! 7.391174034454252,-2.681558398058314,-6.272375909566108
+[00:48:22] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Acquire Hardware]
+[00:48:27] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Suit Up]
+[00:51:52] [Server thread/INFO]: Cuc4L0v3r has made the advancement [Isn't It Iron Pick]
+[00:53:03] [Server thread/INFO]: Cuc4L0v3r lost connection: Timed out
+[00:53:03] [Server thread/INFO]: Cuc4L0v3r left the game
+[00:53:03] [Server thread/WARN]: handleDisconnection() called twice
+[00:54:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:54:41] [Server thread/INFO]: jozxxmv[/127.79.77.205:56687] logged in with entity id 5162 at (-3119.950904473881, 204.0, 4493.636314557228)
+[00:54:42] [Server thread/INFO]: jozxxmv joined the game
